@@ -1,0 +1,5 @@
+.login{
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/background_banner.jpg);
+    padding: 20px 8%;
+}
